@@ -1,0 +1,3 @@
+print 10 / 0;        // runtime error (division by zero)
+print "hi" == 3;     // expect: false
+print nil == nil;    // expect: true

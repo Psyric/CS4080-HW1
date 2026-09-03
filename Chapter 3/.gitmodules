@@ -1,0 +1,3 @@
+[submodule "lox_src"]
+	path = lox_src
+	url = https://github.com/munificent/craftinginterpreters.git
